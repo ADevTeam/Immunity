@@ -27,6 +27,7 @@ target
 # Local configuration file (sdk path, etc)
 local.properties
 project.properties
+immunity\project.properties
  
 # Eclipse project files
 .classpath
