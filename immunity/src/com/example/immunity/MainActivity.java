@@ -15,8 +15,6 @@ public class MainActivity extends Activity {
         Log.i("This is information", "this is my message");
         
         System.out.println("This is my message!");
-        
-        Log.e("testing", "stset");
     }
 
 
